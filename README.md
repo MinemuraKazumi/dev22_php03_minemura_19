@@ -14,16 +14,16 @@ phpデータベースの課題。
 
 - 課題1
 
-データベース　 :gs_book_db
+  データベース　 :gs_book_db
 
-テーブル　    :gs_bm_table
+  テーブル　    :gs_bm_table
 
 
 - 課題2
 
-データベース　 :gs_db
+  データベース　 :gs_db
 
-テーブル　    :gs_user_table
+  テーブル　    :gs_user_table
 
 
 ![top.png](./img/top.png)
