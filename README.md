@@ -27,3 +27,9 @@ phpデータベースの課題。
 
 
 ![top.png](./img/top.png)
+
+# 5、反省点
+
+- 課題1
+
+detail.phpのinputタグにvalue=<?= $view['comment']?>が抜けていた為、追記を実施
