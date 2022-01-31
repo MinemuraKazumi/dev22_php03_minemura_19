@@ -32,4 +32,4 @@ phpデータベースの課題。
 
 - 課題1
 
-detail.phpのinputタグにvalue=<?= $view['comment']?>が抜けていた為、追記を実施
+  detail.phpのinputタグにvalue=<?= $view['comment']?>が抜けていた為、追記を実施
